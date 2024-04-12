@@ -8,4 +8,4 @@
 I am interested in creating new things and passionate about practical aspects of coding.
 -----------------------------------------------
 
-* 🤝  I'm open to collaborating on web, smartTV and mobile apps.
+* 🤝  I'm open to collaborating on web, smartTV and mobile apps development.
